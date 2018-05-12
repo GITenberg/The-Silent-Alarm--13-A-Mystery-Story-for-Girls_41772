@@ -1,0 +1,33 @@
+_repo: The-Silent-Alarm--13-A-Mystery-Story-for-Girls_41772
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41772-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2013-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Author's Mystery stories for girls
+- Author's Adventure stories for girls
+subjects:
+- !lcsh 'Railroad stories'
+- !lcc 'PZ'
+- !lcsh 'Kentucky -- Juvenile fiction'
+- !lcsh 'Coal mines and mining -- Juvenile fiction'
+- !lcsh 'Rural schools -- Juvenile fiction'
+title: The Silent Alarm
+url: http://www.gutenberg.org/ebooks/41772
